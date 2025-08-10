@@ -1,0 +1,6 @@
+{
+  "name": "FINAL Pixel Image Generator (test ok)",
+  "description": "An application to generate images using the Gemini Imagen 3 model with a unique pixel art interface. Users can input multiple prompts, choose generation styles, set aspect ratios, and specify the number of images per prompt.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
